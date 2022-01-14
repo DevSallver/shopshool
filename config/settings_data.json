@@ -67,7 +67,7 @@
         "settings": {
           "color_scheme": "background-2",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Assine nossos e-mails",
           "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,
