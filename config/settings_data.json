@@ -31,8 +31,9 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo_width": 100,
+          "color_scheme": "background-2",
+          "logo": "shopify:\/\/shop_images\/MacBook_Pro_14__-_1.png",
+          "logo_width": 120,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
