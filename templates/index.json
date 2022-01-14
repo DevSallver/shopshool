@@ -195,6 +195,26 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1642166715f70a4212": {
+      "type": "apps",
+      "blocks": {
+        "cc656b0c-3896-437b-b862-713192dbbb4f": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "cc656b0c-3896-437b-b862-713192dbbb4f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -203,6 +223,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "1642166715f70a4212"
   ]
 }
