@@ -7,7 +7,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
+    "type_header_font": "montserrat_n4",
     "type_body_font": "assistant_n4",
     "card_style": "standard",
     "sections": {
@@ -47,6 +47,7 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -54,6 +55,7 @@
           },
           "footer-1": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
